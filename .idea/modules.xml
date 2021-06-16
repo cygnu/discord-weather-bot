@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/notify-absentee.iml" filepath="$PROJECT_DIR$/.idea/notify-absentee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/discord-weather-bot.iml" filepath="$PROJECT_DIR$/.idea/discord-weather-bot.iml" />
     </modules>
   </component>
 </project>
